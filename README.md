@@ -9,6 +9,7 @@ Ces applications sont seulement des raccourcis de leur site ce qui explique leur
 1. Appuyer sur le fichier souhaiter
 2. En haut à droite appuyer sur les points
 3. Download
-[Aide]
-• Vidéo tutoriel:
+
+• Vidéo:
+
 https://github.com/user-attachments/assets/d1220604-97a5-4c18-b95f-1884dc491afa
