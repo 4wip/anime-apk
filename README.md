@@ -1,3 +1,4 @@
+(Seulement pour Android)
 • Anime-Sama et Voir-Anime sont des sites de streaming d'anime.
 
 • Ce sont 2 apk léger (1 mb soit la taille de 1 image).
